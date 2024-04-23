@@ -1,0 +1,7 @@
+host: go.bytecodealliance.org
+
+modules:
+  - path: /cm
+    vcs: git
+    repo-url: https://github.com/bytecodealliance/cm-go/cm
+
